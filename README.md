@@ -9,7 +9,7 @@ Think importing data from several sources in different formats to generate stati
 
 ## Usage 
 
-    $ composer require coderofsalvation/DataMapper-Minimal
+    $ composer require coderofsalvation/datamapper-minimal
 
 And then 
 
