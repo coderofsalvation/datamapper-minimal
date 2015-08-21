@@ -1,5 +1,5 @@
 {
-    "name": "coderofsalvation/DataMapper-Minimal",
+    "name": "coderofsalvation/datamapper-minimal",
     "description": "Easily transform arrays and objects with different layouts into one format",
     "minimum-stability": "dev",
     "version": "0.1.1",
